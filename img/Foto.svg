@@ -1,0 +1,38 @@
+<svg id="Foto" xmlns="http://www.w3.org/2000/svg" width="631" height="438" viewBox="0 0 631 438">
+  <g id="Retângulo_3" data-name="Retângulo 3" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="631" height="438" stroke="none"/>
+    <rect x="0.5" y="0.5" width="630" height="437" fill="none"/>
+  </g>
+  <g id="Retângulo_5" data-name="Retângulo 5" transform="translate(18 73)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="595" height="35" rx="17.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="594" height="34" rx="17" fill="none"/>
+  </g>
+  <g id="Elipse_1" data-name="Elipse 1" transform="translate(25 36)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+    <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+  </g>
+  <g id="Elipse_2" data-name="Elipse 2" transform="translate(25 36)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+    <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+  </g>
+  <g id="Elipse_3" data-name="Elipse 3" transform="translate(107 36)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+    <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+  </g>
+  <g id="Elipse_4" data-name="Elipse 4" transform="translate(66 36)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+    <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+  </g>
+  <g id="Retângulo_6" data-name="Retângulo 6" transform="translate(24 139)" fill="#262424" stroke="#707070" stroke-width="1">
+    <rect width="228" height="37" rx="18.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="227" height="36" rx="18" fill="none"/>
+  </g>
+  <g id="Retângulo_7" data-name="Retângulo 7" transform="translate(25 200)" fill="#606060" stroke="#5a5a5a" stroke-width="1">
+    <rect width="459" height="31" rx="15.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="458" height="30" rx="15" fill="none"/>
+  </g>
+  <g id="Retângulo_8" data-name="Retângulo 8" transform="translate(29 262)" fill="#606060" stroke="#8f8f8f" stroke-width="1">
+    <rect width="425" height="32" rx="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="424" height="31" rx="15.5" fill="none"/>
+  </g>
+</svg>
